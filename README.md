@@ -2,9 +2,9 @@
 ## Hello there 🤙
 ### Working my way out to become a fullstack developer and currently challenging myself into data science.
 <div align="center">
-  <a href="https://github.com/felipecarlone">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecarlone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarlone&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/FelipeCarlone">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCarlone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCarlone&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Felipe-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
