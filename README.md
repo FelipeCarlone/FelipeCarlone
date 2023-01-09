@@ -1,6 +1,6 @@
 
 ## Hello there 🤙
-### Working my way out to become a fullstack developer and currently challenging myself into data science.
+### Mastering fullstack developer skills - heading fullspeed towards data science, machine learning and IA.
 <div align="center">
   <a href="https://github.com/FelipeCarlone">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipecarlone&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&theme=dark" alt="devSouvik's Github Stats">  
@@ -20,3 +20,6 @@
   <a href="https://www.linkedin.com/in/felipe-lucio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=FelipeCarlone&color=yellow" alt="Profile views" /> </p>
+
+  
+  
